@@ -15,7 +15,7 @@ jobs:
           with: 
             keyvault: "keyvault-actions-koo"
             secrets: 'containerPassword, containerUsername'
-            id: myGetSecretAction
+          id: myGetSecretAction
         - uses: azure/docker-login@v1
           with:
               login-server: ${{ steps.myGetSecretAction.outputs.containerUsername }}.azurecr.io
