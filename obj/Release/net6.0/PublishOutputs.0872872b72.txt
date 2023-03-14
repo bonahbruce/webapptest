@@ -1,0 +1,7 @@
+C:\Users\bonahkoo\Desktop\MyFirstAzureWebApp\bin\Publish\MyFirstAzureWebApp.exe
+C:\Users\bonahkoo\Desktop\MyFirstAzureWebApp\bin\Publish\appsettings.Development.json
+C:\Users\bonahkoo\Desktop\MyFirstAzureWebApp\bin\Publish\appsettings.json
+C:\Users\bonahkoo\Desktop\MyFirstAzureWebApp\bin\Publish\MyFirstAzureWebApp.dll
+C:\Users\bonahkoo\Desktop\MyFirstAzureWebApp\bin\Publish\MyFirstAzureWebApp.deps.json
+C:\Users\bonahkoo\Desktop\MyFirstAzureWebApp\bin\Publish\MyFirstAzureWebApp.runtimeconfig.json
+C:\Users\bonahkoo\Desktop\MyFirstAzureWebApp\bin\Publish\MyFirstAzureWebApp.pdb

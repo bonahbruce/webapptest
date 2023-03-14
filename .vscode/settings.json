@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/e1b5b156-2eea-4eba-b8e0-5c534f93e052/resourceGroups/ms-actions-rg/providers/Microsoft.Web/sites/ms-actions-koo-webapp"
+}
